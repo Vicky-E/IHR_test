@@ -31,6 +31,7 @@ body {
   --gap-xl: 20px;
   --gap-107xl: 126px;
   --gap-44xl: 63px;
+  --gap-15xl: 34px;
   --gap-67xl: 86px;
   --gap-24xl: 43px;
   --gap-45xl: 64px;
@@ -47,6 +48,9 @@ body {
   --padding-33xl: 52px;
   --padding-13xl: 32px;
   --padding-mid: 17px;
+  --padding-34xl: 53px;
+  --padding-41xl: 60px;
+  --padding-lgi-6: 19.6px;
   --padding-xl: 20px;
   --padding-xs: 12px;
   --padding-11xs: 2px;
