@@ -35,7 +35,7 @@
 .onoarding-1-inner {
   align-self: stretch;
   flex-direction: row;
-  padding: 0 33px;
+  padding: 0 var(--padding-14xl);
 }
 .first-indicator,
 .second-indicator {
@@ -164,7 +164,8 @@
   overflow: hidden;
   flex-direction: column;
   justify-content: flex-start;
-  padding: var(--padding-61xl) var(--padding-11xl) 44px var(--padding-21xl);
+  padding: var(--padding-61xl) var(--padding-11xl) var(--padding-25xl)
+    var(--padding-21xl);
   box-sizing: border-box;
   gap: 132px;
   min-width: 290px;
@@ -339,7 +340,7 @@
   flex-direction: column;
   align-items: flex-end;
   justify-content: flex-start;
-  padding: var(--padding-61xl) 2px var(--padding-31xl);
+  padding: var(--padding-61xl) var(--padding-11xs) var(--padding-31xl);
   box-sizing: border-box;
   gap: var(--gap-107xl);
   min-width: 290px;
@@ -372,7 +373,7 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 0 12px;
+  padding: 0 var(--padding-xs);
 }
 .medical-treatment {
   position: relative;
